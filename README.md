@@ -28,3 +28,4 @@ The sentiment analysis provides valuable insights into public attitudes and opin
 ## CONTACT
 EMAIL - 11aishwarya00@gmail.com
 
+Thank you for reviewing my internship task submission!
