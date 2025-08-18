@@ -4,4 +4,12 @@ This repository contains the code and documentation for my data science internsh
 ![Alt Task](ds_t4.png)
 
 ## DATASETS
-The dataset used for this project consists of Twitter entity sentiment data collected from Kaggle.
+The dataset used for this project consists of Twitter entity sentiment data collected from github.
+
+## Methodology
+- Data Cleaning & Preprocessing: Removed duplicates, stopwords, special characters, and performed tokenization.
+
+- Exploratory Data Analysis (EDA): Analyzed sentiment distribution across different topics and entities.
+
+- Modeling & Visualization: Applied Natural Language Processing (NLP) techniques and created visualizations to represent sentiment trends.
+
